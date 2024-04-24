@@ -1,0 +1,56 @@
+-> Loading plugin C:\BluecrestWellness\BluecrestAutomatedTestProject\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+-> Loading plugin C:\BluecrestWellness\BluecrestAutomatedTestProject\bin\Debug\net6.0\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+-> Loading plugin C:\BluecrestWellness\BluecrestAutomatedTestProject\bin\Debug\net6.0\BluecrestAutomatedTestProject.dll
+-> Using default config
+Given the user Navigate to Bluecrest Wellbeing Website "https://www.bluecrestwellness.com/"
+-> done: ActivePackageHomePageStepDefinitions.GivenTheUserNavigateToBluecrestWellbeingWebsite("https://www.bluec...") (4.8s)
+And the user has accepted the privacy policy and close the popup
+-> done: ActivePackageHomePageStepDefinitions.GivenTheUserHasAcceptedThePrivacyPolicyAndCloseThePopup() (2.3s)
+When User clicks on the View All the Health Check Button on the Body of the HomePage
+-> done: ActivePackageHomePageStepDefinitions.WhenUserClicksOnTheViewAllTheHealthCheckButtonOnTheBodyOfTheHomePage() (0.1s)
+And the user clicks on the BookNow button for the Active Package
+-> done: ActivePackageHomePageStepDefinitions.WhenTheUserClicksOnTheBookNowButtonForTheActivePackage() (9.1s)
+And User inputs location in the search field
+-> done: ActivePackageHomePageStepDefinitions.WhenUserInputsLocationInTheSearchField() (4.3s)
+And clicks the search button
+-> done: ActivePackageHomePageStepDefinitions.WhenClicksTheSearchButton() (0.2s)
+And the user selects a venue from the list
+-> done: ActivePackageHomePageStepDefinitions.WhenTheUserSelectsAVenueFromTheList() (1.7s)
+And selects a date and time
+-> done: ActivePackageHomePageStepDefinitions.WhenSelectsADateAndTime() (1.2s)
+And clicks on confirm Button
+-> done: ActivePackageHomePageStepDefinitions.WhenClicksOnConfirmButton() (1.6s)
+Then views the Order Summary
+-> done: ActivePackageHomePageStepDefinitions.ThenViewsTheOrderSummary() (0.1s)
+When the user clicks on the continue button
+-> done: ActivePackageHomePageStepDefinitions.WhenTheUserClicksOnTheContinueButton() (7.0s)
+Then the user can view the personal details page
+-> done: ActivePackageHomePageStepDefinitions.ThenTheUserCanViewThePersonalDetailsPage() (0.0s)
+-> LivingDocPlugin: Output generated in: C:\BluecrestWellness\BluecrestAutomatedTestProject\bin\Debug\net6.0\TestExecution.json
+
+
+TestContext Messages:
+Given the user Navigate to Bluecrest Wellbeing Website "https://www.bluecrestwellness.com/"
+-> done: ActivePackageHomePageStepDefinitions.GivenTheUserNavigateToBluecrestWellbeingWebsite("https://www.bluec...") (4.8s)
+And the user has accepted the privacy policy and close the popup
+-> done: ActivePackageHomePageStepDefinitions.GivenTheUserHasAcceptedThePrivacyPolicyAndCloseThePopup() (2.3s)
+When User clicks on the View All the Health Check Button on the Body of the HomePage
+-> done: ActivePackageHomePageStepDefinitions.WhenUserClicksOnTheViewAllTheHealthCheckButtonOnTheBodyOfTheHomePage() (0.1s)
+And the user clicks on the BookNow button for the Active Package
+-> done: ActivePackageHomePageStepDefinitions.WhenTheUserClicksOnTheBookNowButtonForTheActivePackage() (9.1s)
+And User inputs location in the search field
+-> done: ActivePackageHomePageStepDefinitions.WhenUserInputsLocationInTheSearchField() (4.3s)
+And clicks the search button
+-> done: ActivePackageHomePageStepDefinitions.WhenClicksTheSearchButton() (0.2s)
+And the user selects a venue from the list
+-> done: ActivePackageHomePageStepDefinitions.WhenTheUserSelectsAVenueFromTheList() (1.7s)
+And selects a date and time
+-> done: ActivePackageHomePageStepDefinitions.WhenSelectsADateAndTime() (1.2s)
+And clicks on confirm Button
+-> done: ActivePackageHomePageStepDefinitions.WhenClicksOnConfirmButton() (1.6s)
+Then views the Order Summary
+-> done: ActivePackageHomePageStepDefinitions.ThenViewsTheOrderSummary() (0.1s)
+When the user clicks on the continue button
+-> done: ActivePackageHomePageStepDefinitions.WhenTheUserClicksOnTheContinueButton() (7.0s)
+Then the user can view the personal details page
+-> done: ActivePackageHomePageStepDefinitions.ThenTheUserCanViewThePersonalDetailsPage() (0.0s)
